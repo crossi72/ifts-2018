@@ -9,9 +9,9 @@
  * @return void
  */
 function CreaDiv($numeroDiv, $classe){
-    for ($i = 1; $i <= $numeroDiv; $i++){
-        echo "<div class='". $classe ."'></div>";
-    }
+	for ($i = 1; $i <= $numeroDiv; $i++){
+		echo "<div class='". $classe ."'></div>";
+	}
 }
 
 ?>

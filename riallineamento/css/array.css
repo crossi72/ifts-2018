@@ -1,0 +1,36 @@
+.blu{
+	background-color: #00F;
+}
+
+.rosso{
+	background-color: #F00;
+}
+
+.bianco{
+	background-color: #FFF;
+}
+
+.stretto{
+	width: 50px;
+}
+
+.largo{
+	width: 250px;
+}
+
+.basso{
+	height: 50px;
+}
+
+.alto{
+	height: 250px;
+}
+
+span{
+	display: block;
+}
+
+div{
+	margin: 10px;
+	padding: 5px;
+}
